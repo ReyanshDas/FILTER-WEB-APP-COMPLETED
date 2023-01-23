@@ -1,0 +1,13 @@
+body {
+    background-image: High_resolution_wallpaper_background_ID_777011436652.jpg;
+  }
+  
+  canvas {
+    border: 1px solid rgb(1, 65, 1);
+    border-style: ridge;
+  }
+  
+  #filter-button {
+    margin-top: 20px;
+  }
+  
